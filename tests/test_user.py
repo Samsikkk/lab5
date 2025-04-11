@@ -4,7 +4,7 @@ from src.main import app
 
 client = TestClient(app)
 
-# Существующие пользователи
+# Существующие
 users = [
     {
         'id': 1,
